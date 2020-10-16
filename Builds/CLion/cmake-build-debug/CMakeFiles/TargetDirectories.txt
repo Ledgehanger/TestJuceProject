@@ -1,0 +1,5 @@
+/home/cmccusker/JuceTestProject/TestProject/Builds/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cmccusker/JuceTestProject/TestProject/Builds/CLion/cmake-build-debug/CMakeFiles/VST3.dir
+/home/cmccusker/JuceTestProject/TestProject/Builds/CLion/cmake-build-debug/CMakeFiles/STANDALONE_PLUGIN.dir
+/home/cmccusker/JuceTestProject/TestProject/Builds/CLion/cmake-build-debug/CMakeFiles/SHARED_CODE.dir
+/home/cmccusker/JuceTestProject/TestProject/Builds/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
